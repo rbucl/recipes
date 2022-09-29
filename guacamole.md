@@ -1,6 +1,6 @@
 # Ingredients
 - Avocado
-- Lemon
+- Lime
 - Salt
 - Pepper
 # Instructions
